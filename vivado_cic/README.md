@@ -4,7 +4,9 @@ This vivado project is to simulate the cic decimation filter with a 64 decimatio
 
 In the video, it explain the whole process from the input signal to the display on the computer. For my project, I snippest the code for the simulation usage. Specifically, my project only simulate the PDM signal by Python code, save it as a txt file, stream the binary signal into the cic filter with systemVerilog code, and display the result on the Vivado simulation window.
 
+To run the file, extract the rar file and run the .xpr file in the Vivado. All the blocks showed be configured automatically. However, if the Vivado update to a new version, some IP blocks migh be invalid. To fix the problem, click the IP INTEGRATOR, chose the same IP, and follow the original  IP setting to configure a new one.
+
 
 ![CIC filter result](../figures/CIC_filter_simulation_result.png)
 
-![CIC filter sample](../figures/CIC_filter_simulation_result.png)
+![CIC filter sample](../figures/CIC_filter_simulation_sample.png)
