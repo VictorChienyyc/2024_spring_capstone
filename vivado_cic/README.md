@@ -1,3 +1,10 @@
-# 2024_spring_capstone
+# 2024_spring_capstone_vivado_cic
 
-aaaaaaaaaa
+This vivado project is to simulate the cic decimation filter with a 64 decimation factor. Most of the code is from [this video](https://www.youtube.com/watch?v=m8O8yEiZTvs&ab_channel=FPGAsforBeginners) and [Github](https://github.com/HDLForBeginners/Examples/tree/main/eth_pdm_mic)
+
+In the video, it explain the whole process from the input signal to the display on the computer. For my project, I snippest the code for the simulation usage. Specifically, my project only simulate the PDM signal by Python code, save it as a txt file, stream the binary signal into the cic filter with systemVerilog code, and display the result on the Vivado simulation window.
+
+
+![CIC filter result](../figures/CIC_filter_simulation_result.png)
+
+![CIC filter sample](../figures/CIC_filter_simulation_result.png)
