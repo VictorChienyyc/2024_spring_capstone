@@ -20,7 +20,11 @@ Our digital microphone outputs a PDM signal incompatible with the PCM input requ
 *Figure 1: FPGA design flow chart*
 
 ![FIR Filter Design](figures/FIR_design.png)
-*Figure 2: FIR filter design*
+*Figure 2: FIR filter design* 
+[source](https://www.cnblogs.com/wanghuaijun/p/9581173.html)
+
+
 
 ![CIC Decimation Filter Design](figures/CIC_design.png)
-*Figure 3: CIC decimation filter design*
+*Figure 3: CIC decimation filter design* [source](https://www.dsprelated.com/showarticle/1337.php)
+
