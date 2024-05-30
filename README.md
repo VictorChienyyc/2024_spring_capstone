@@ -26,5 +26,12 @@ Our digital microphone outputs a PDM signal incompatible with the PCM input requ
 
 
 ![CIC Decimation Filter Design](figures/CIC_design.png)
+<<<<<<< HEAD
 *Figure 3: CIC decimation filter design* [source](https://www.dsprelated.com/showarticle/1337.php)
 
+=======
+*Figure 3: CIC decimation filter design*
+
+
+testtes
+>>>>>>> 6a36c01d8ed329f52545637223f2dec07dcad78d
